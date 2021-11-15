@@ -1,2 +1,2 @@
 # pixijs-first
-gaming for pixi js
+gaming on pixi js
